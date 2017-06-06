@@ -1,6 +1,6 @@
 {
   "name": "zfdoc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "一个非常简单的文档生成工具",
   "repository": {
     "type": "git",
@@ -8,7 +8,7 @@
   },
   "main": "index.js",
   "bin": {
-    "idoc": ".bin/idoc.js"
+    "zfdoc": ".bin/idoc.js"
   },
   "keywords": [
     "idoc",
