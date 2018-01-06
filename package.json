@@ -1,6 +1,6 @@
 {
   "name": "zfdoc",
-  "version": "0.0.2",
+  "version": "0.0.7",
   "description": "一个非常简单的文档生成工具",
   "repository": {
     "type": "git",
